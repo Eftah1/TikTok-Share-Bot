@@ -1,4 +1,4 @@
-module TikTok_Share_Bot
+TikTok_Share_Bot
 
 go 1.17
 
